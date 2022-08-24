@@ -43,7 +43,7 @@ In the terminal type 'Jupyter Lab'
 
 The following images present the first notebook read in Jupyter Lab.
 
-## ![Screenshot of the Jupyter Lab](images/jupyter_lab.jpeg) </br>
+## ![Screenshot of the Jupyter Lab](Images/jupyter_lab.jpeg) </br>
 
 ---
 
