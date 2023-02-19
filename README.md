@@ -1,6 +1,6 @@
 # Crypto K-Means Clustering Project
 
-In this Challenge, I’ll combine my financial Python programming skills with the new unsupervised learning skills that I acquired in this module.
+I’ll combine my financial Python programming skills with the new unsupervised learning skills that I acquired in this module.
 
 The CSV file provided in this challenge contains price change data of cryptocurrencies in different periods.
 
