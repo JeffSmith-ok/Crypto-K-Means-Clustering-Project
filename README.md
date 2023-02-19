@@ -1,7 +1,6 @@
 # Crypto K-Means Clustering Project
 
-I’ll combine my financial Python programming skills with unsupervised learning skills.
-
+I’ll combine my financial Python programming skills with the new unsupervised learning skills to cluster the cryptocurrencies into groups using the K-Means algorithm, then using PCA Data to find the best value for k, and then clustering cryptocurrency with K-means using the PCA data.
 The CSV file provided in this challenge contains price change data of cryptocurrencies in different periods.
 
 The steps for this challenge are broken out into the following sections:
