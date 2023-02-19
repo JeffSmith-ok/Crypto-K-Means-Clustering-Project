@@ -27,11 +27,7 @@ This was developed with Anaconda, in a development environment running Python 3.
 
 Install Anaconda and Python 3.7.13. </br>
 pip install -U scikit-learn
-Git clone the repo and run it, pursuant to the following clone address
-
-git clone https://github.com/JeffSmith-ok/Module_10_Challenge
-
-cd Module_10_Challenge
+Git clone the repo and run it
 
 In the terminal type 'Jupyter Lab'
 
@@ -47,7 +43,6 @@ The following images present the first notebook read in Jupyter Lab.
 
 ## Contributors
 
-This is the Module 10 Challenge.
 
 My contact information is:
 
