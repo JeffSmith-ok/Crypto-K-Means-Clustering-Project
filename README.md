@@ -1,6 +1,4 @@
-# Module_10_Challenge
-
-# Crypto Clustering Project
+# Crypto K-Means Clustering Project
 
 In this Challenge, I’ll combine my financial Python programming skills with the new unsupervised learning skills that I acquired in this module.
 
